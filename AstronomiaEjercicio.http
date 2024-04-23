@@ -1,0 +1,6 @@
+@AstonomiaEjercicio_HostAddress = http://localhost:5016
+
+GET {{AstronomiaEjercicio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
